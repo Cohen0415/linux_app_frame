@@ -1,0 +1,9 @@
+
+# .o files
+*.o
+
+# app 
+main
+
+# others
+.vscode
